@@ -25,7 +25,21 @@ Welcome to the **Fitness Exercises App**, a modern React application designed to
 
 ## Demo
 
+#Homepage
 ![Home](public/1.png)
+
+#Search Exercises
+![Home](public/2.png)
+
+#Exercises 
+![Home](public/3.png)
+
+#Exercise Card
+![Home](public/4.png)
+
+#Youtube Suggestions
+![Home](public/5.png)
+
 
 ## Installation
 
