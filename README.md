@@ -25,7 +25,7 @@ Welcome to the **Fitness Exercises App**, a modern React application designed to
 
 ## Demo
 
-![Home](public/Screenshot2024-07-02094827.png)
+![Home](public/1.png)
 
 ## Installation
 
