@@ -23,6 +23,10 @@ Welcome to the **Fitness Exercises App**, a modern React application designed to
 - **JavaScript (ES6+)**: Logic and interactions.
 - **Axios**: For API requests.
 
+## Demo
+
+![Home](./Screenshot 2024-07-02 094827.png)
+
 ## Installation
 
 1. **Clone the repository**:
